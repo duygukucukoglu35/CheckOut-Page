@@ -1,5 +1,6 @@
 # CheckOut-Page
-![cart](https://user-images.githubusercontent.com/109351417/204639609-cd2d3061-db1a-440a-b9b7-fd5b6eeb062e.mp4)
+![checkout_page_1](https://user-images.githubusercontent.com/109351417/204654680-c9abc321-de20-4007-a9c1-9eaca265f857.gif)
+
 
 
 
